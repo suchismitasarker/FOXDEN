@@ -4,8 +4,8 @@
     "type": "string",
     "optional": true,
     "multiple": false,
-    "section": "DOI",
-    "description": "DOI FOXDEN license",
+    "section": "License",
+    "description": "FOXDEN license",
     "units": "",
     "placeholder": ""
   },
@@ -14,8 +14,8 @@
     "type": "string",
     "optional": true,
     "multiple": false,
-    "section": "DOI",
-    "description": "DOI FOXDEN license name",
+    "section": "License",
+    "description": "FOXDEN license name",
     "units": "",
     "placeholder": ""
   },
@@ -24,8 +24,8 @@
     "type": "string",
     "optional": true,
     "multiple": false,
-    "section": "DOI",
-    "description": "DOI FOXDEN license uri",
+    "section": "License",
+    "description": "FOXDEN license uri",
     "units": "",
     "placeholder": ""
   }
