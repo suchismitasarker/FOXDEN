@@ -61,7 +61,7 @@
   },
   {
     "key": "doi_created_at",
-    "type": "strign",
+    "type": "string",
     "optional": true,
     "multiple": false,
     "section": "DOI",
