@@ -1,0 +1,32 @@
+[
+  {
+    "key": "license",
+    "type": "string",
+    "optional": true,
+    "multiple": false,
+    "section": "DOI",
+    "description": "DOI FOXDEN license",
+    "units": "",
+    "placeholder": ""
+  },
+  {
+    "key": "license_name",
+    "type": "string",
+    "optional": true,
+    "multiple": false,
+    "section": "DOI",
+    "description": "DOI FOXDEN license name",
+    "units": "",
+    "placeholder": ""
+  },
+  {
+    "key": "license_uri",
+    "type": "string",
+    "optional": true,
+    "multiple": false,
+    "section": "DOI",
+    "description": "DOI FOXDEN license uri",
+    "units": "",
+    "placeholder": ""
+  }
+]

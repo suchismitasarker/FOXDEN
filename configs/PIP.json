@@ -1,4 +1,6 @@
 [
+  {"file": "doi.json"},
+  {"file": "license.json"},
   {
     "key": "measurement_type",
     "type": "string",
