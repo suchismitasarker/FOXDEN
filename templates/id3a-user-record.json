@@ -1,0 +1,49 @@
+{
+  "tmpl_schema": "ID3A",
+  "label": "test-id3a",
+  "btr": "btr-id3a",
+  "alignment": false,
+  "calibration": false,
+  "data_location_beamtime_notes": "/nfs/chess/aux/cycles/2026-1/id3a/shanks-4838-b/logbook_shanks-4838-b.odt",
+  "data_location_meta": "/nfs/chess/aux/metadata/cycles/2026-1/id3a/shanks-4838-b/lshr-5-nf-2",
+  "data_location_raw": "/nfs/chess/id3a/2026-1/shanks-4838-b/lshr-5-nf-2",
+  "data_location_reduced": "/nfs/chess/aux/reduced_data/cycles/2026-1/id3a/shanks-4838-b/lshr-5-nf-2",
+  "data_location_scratch": "/nfs/chess/scratch/cycles/2026-1/id3a/shanks-4838-b/lshr-5-nf-2",
+  "in_situ": false,
+  "mechanical_grips": [
+    ""
+  ],
+  "mechanical_load_frame": [
+    "RAMSII"
+  ],
+  "mechanical_test": false,
+  "mechanical_test_type": [
+    ""
+  ],
+  "processing_environment": [
+    ""
+  ],
+  "sample_common_name": "LSHR",
+  "sample_composition": "LSHR",
+  "sample_crystallographic_phases": [
+    {
+      "name": "lshr",
+      "space_group": 225,
+      "unit_cell": [
+        3.6,
+        3.6,
+        3.6,
+        90,
+        90,
+        90
+      ]
+    }
+  ],
+  "sample_geometry": "RAMSII keeper tension",
+  "sample_mat_ped_heat_treatment": "unknown",
+  "sample_mat_ped_processing_route": "unknown",
+  "sample_name": "lshr-5-nf-2",
+  "sample_state": [
+    "poly_crystal"
+  ]
+}

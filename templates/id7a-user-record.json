@@ -1,0 +1,36 @@
+{
+  "tmpl_schema": "ID7A",
+  "label": "test-id7a",
+  "btr": "",
+  "experimenter": "user_name",
+  "technique": [
+      "batch",
+      "size_exclusion_chromatography",
+      "anoxic",
+      "high_pressure",
+      "airgap",
+      "myoSAXS",
+      "WAXS",
+      "other"
+    ],
+  "sample_name": "lysozyme",
+  "molecule_type": [
+      "buffer",
+      "protein",
+      "lipid",
+      "nucleic_acid",
+      "muscle",
+      "calibrant",
+      "other"
+    ],
+  "concentration": "0 mg/mL",
+  "additional_components": "",
+  "buffer": "50 mM Hepes, pH 7.5",
+  "temperature": 25.0,
+  "buffer_file": "buffer.data",
+  "column": "Superdex 200 Increase 10/300",
+  "flow_rate": 0.5,
+  "mals": false,
+  "pressure": 0.1,
+  "notes": ""
+}
