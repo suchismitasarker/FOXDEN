@@ -1,8 +1,8 @@
 {
   "tmpl_schema": "ID4B",
   "label": "test-id4b",
-  "btr": "",
-  "experimenter": "user_name",
+  "btr": "test-btr",
+  "user": "user_name",
   "sample_chemical_formula": "AV3Sb5",
   "crystal_system_rt": [
       "Cubic",
