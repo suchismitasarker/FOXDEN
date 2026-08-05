@@ -1,68 +1,24 @@
-[
-  {
-    "tmpl_schema": "ID4B",
-    "label": "test-id4b",
-    "btr": "",
-    "experimenter": "user_name"
-  },
-  {
-    "key": "sample_chemical_formula",
-    "type": "string",
-    "optional": false,
-    "multiple": false,
-    "section": "Sample",
-    "description": "Provide chemical formula of the sample (e.g AV3Sb5)",
-    "units": "",
-    "placeholder": "AV3Sb5"
-  },
-  {
-    "key": "crystal_system_rt",
-    "type": "string",
-    "optional": false,
-    "multiple": false,
-    "section": "Sample",
-    "description": "Provide room temperature sample crystal system (e.g. cubic, orthorohombic )",
-    "units": "",
-    "placeholder": "cubic"
-  },
-  {
-    "key": "sample_space_group",
-    "type": "string",
-    "optional": false,
-    "multiple": false,
-    "section": "Sample",
-    "description": "Provide the sample space group",
-    "units": "",
-    "placeholder": "F-43m"
-  },
-  {
-    "key": "sample_space_group_number",
-    "type": "string",
-    "optional": false,
-    "multiple": false,
-    "section": "Sample",
-    "description": "Provide the sample space group number",
-    "units": "",
-    "placeholder": "225"
-  },
-  {
-    "key": "sample_unit_cell",
-    "type": "string",
-    "optional": false,
-    "multiple": false,
-    "section": "Sample",
-    "description": "Unit cell dimensions ",
-    "units": "angstrom",
-    "placeholder": "a = 5.43, b = 5.43, c = 4.34, alpha = 90, beta = 90, gamma = 90"
-  },
-  {
-    "key": "phase_transition",
-    "type": "string",
-    "optional": false,
-    "multiple": false,
-    "section": "Sample",
-    "description": "Will the sample undergo a phase transition during the experiment? If yes,what are the temperature and space group?",
-    "units": "",
-    "placeholder": ""
-  }
-]
+{
+  "tmpl_schema": "ID4B",
+  "label": "test-id4b",
+  "btr": "",
+  "experimenter": "user_name",
+  "sample_chemical_formula": "AV3Sb5",
+  "crystal_system_rt": [
+      "Cubic",
+      "Hexagonal",
+      "Tetragonal",
+      "Orthorhombic",
+      "Rhombohedral",
+      "Monoclinic",
+      "Triclinic"
+    ],
+  "sample_space_group": "F-43m",
+  "sample_space_group_number": "225",
+  "sample_unit_cell": "a = 5.43, b = 5.43, c = 4.34, alpha = 90, beta = 90, gamma = 90",
+  "phase_transition": [
+    "Yes",
+    "No",
+    "Not certain"
+  ]
+}
