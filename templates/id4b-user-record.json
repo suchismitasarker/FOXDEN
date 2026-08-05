@@ -1,0 +1,24 @@
+{
+  "tmpl_schema": "ID4B",
+  "label": "test-id4b",
+  "btr": "",
+  "experimenter": "user_name",
+  "sample_chemical_formula": "AV3Sb5",
+  "crystal_system_rt": [
+      "Cubic",
+      "Hexagonal",
+      "Tetragonal",
+      "Orthorhombic",
+      "Rhombohedral",
+      "Monoclinic",
+      "Triclinic"
+    ],
+  "sample_space_group": "F-43m",
+  "sample_space_group_number": "225",
+  "sample_unit_cell": "a = 5.43, b = 5.43, c = 4.34, alpha = 90, beta = 90, gamma = 90",
+  "phase_transition": [
+    "Yes",
+    "No",
+    "Not certain"
+  ]
+}
