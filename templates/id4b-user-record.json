@@ -8,5 +8,6 @@
   "sample_space_group": "F-43m",
   "sample_space_group_number": "225",
   "sample_unit_cell": "a = 5.43, b = 5.43, c = 4.34, alpha = 90, beta = 90, gamma = 90",
+  "sample_name": "test",
   "phase_transition": "yes"
 }
